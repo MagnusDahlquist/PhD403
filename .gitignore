@@ -5,3 +5,5 @@ deps/deps.jl
 
 .DS_Store
 *tmp*
+.ipynb_checkpoints
+TODO
