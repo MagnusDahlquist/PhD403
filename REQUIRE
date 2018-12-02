@@ -6,4 +6,3 @@ StatsBase
 ForwardDiff
 DataFrames
 CSV
-ExcelFiles
