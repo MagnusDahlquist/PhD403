@@ -24,9 +24,9 @@ Each notebook covers a main section with examples, with each subsection
 containing all the explicit imports and declarations needed to run that
 specific part.
 
-* [Data processing](https://github.com/MagnusDahlquist/PhD403/blob/master/data%processing.ipynb)
+* [Data processing](https://github.com/MagnusDahlquist/PhD403/blob/master/data%20processing.ipynb)
 
-* [Maximum likelihood](https://github.com/MagnusDahlquist/PhD403/blob/master/maximum%likelihood.ipynb)
+* [Maximum likelihood](https://github.com/MagnusDahlquist/PhD403/blob/master/maximum%20likelihood.ipynb)
 
 * [Bootstrap](https://github.com/MagnusDahlquist/PhD403/blob/master/bootstrap.ipynb)
 
