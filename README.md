@@ -2,7 +2,8 @@
 [![Build Status](https://travis-ci.org/MagnusDahlquist/PhD403.svg?branch=master)](https://travis-ci.org/MagnusDahlquist/PhD403)
 # PhD403: Empirical Asset Pricing
 This repository contains Julia code for course PhD403 at the Stockholm School
-of Economics, with emphasis on illustrating applied econometrics in Julia.
+of Economics, with emphasis on illustrating applied econometrics in Julia. For
+help with getting up to speed with Julia, look at the resources section below.
 
 ## Getting started
 The examples are organized in Jupyter notebooks, with some extended code
@@ -36,16 +37,18 @@ specific part.
 ## Resources
 Some links to get started with Julia:
 
-[The Official Documentation](https://docs.julialang.org/en/)
+* [The Official Documentation](https://docs.julialang.org/en/)
 
-[Quant Econ Julia Intro](https://lectures.quantecon.org/jl/index_learning_julia.html)
+* [Quant Econ Julia Intro](https://lectures.quantecon.org/jl/index_learning_julia.html)
 
-[Setting up Jupyter for Julia](https://github.com/JuliaLang/IJulia.jl)
+* [Setting up Jupyter for Julia](https://github.com/JuliaLang/IJulia.jl)
 
-[Learn Julia the hard way (work in progress)](https://scls.gitbooks.io/ljthw/_chapters/03-ex0.html)
+* [Learn Julia the hard way (work in progress)](https://scls.gitbooks.io/ljthw/_chapters/03-ex0.html)
+
+* [Julia overview for MIT courses](https://github.com/stevengj/julia-mit)
 
 Misc.
 
-[Github introduction](https://guides.github.com/activities/hello-world/)
+* [Github introduction](https://guides.github.com/activities/hello-world/)
 
-[Bruce Hansen's Econometrics textbook](https://www.ssc.wisc.edu/~bhansen/econometrics/)
+* [Bruce Hansen's Econometrics textbook](https://www.ssc.wisc.edu/~bhansen/econometrics/)
