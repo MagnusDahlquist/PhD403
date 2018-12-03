@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MagnusDahlquist/PhD403/master)
+[![Build Status](https://travis-ci.org/MagnusDahlquist/PhD403.svg?branch=master)](https://travis-ci.org/MagnusDahlquist/PhD403)
 # PhD403: Empirical Asset Pricing
 This repository contains Julia code for course PhD403 at the Stockholm School
 of Economics, with emphasis on illustrating applied econometrics in Julia.
